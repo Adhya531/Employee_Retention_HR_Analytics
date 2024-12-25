@@ -9,7 +9,7 @@ This **HR Analytics Dashboard** visualizes key employee attrition metrics across
 ## Process of Creating the Dashboard  
 
 ### **Step 1: Data Preparation**  
-- **Source of Data**: The data was obtained from the [HRAnalytics.csv]and loaded into Microsoft Power BI.  
+- **Source of Data**: The data was obtained from the HRAnalytics.csv and loaded into Microsoft Power BI.  
 - **Data Cleaning**:  
   - Removed duplicates to ensure data accuracy.  
   - Addressed missing or inconsistent entries by imputing values or removing invalid rows.  
